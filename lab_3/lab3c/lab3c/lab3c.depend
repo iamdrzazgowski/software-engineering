@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1710253510 source:d:\staruml\lab_3\lab3c\serial.cpp
+	"Serial.h"
+	<string>
+	<iostream>
+
+1710253616 d:\staruml\lab_3\lab3c\serial.h
+	<string>
+	<iostream>
+
+1710254590 source:d:\staruml\lab_3\lab3c\platformavod.cpp
+	"PlatformaVOD.h"
+	"Serial.h"
+	<string>
+	<iostream>
+
+1710253632 d:\staruml\lab_3\lab3c\platformavod.h
+	"Serial.h"
+	<string>
+	<iostream>
+	<vector>
+
+1710255156 source:d:\staruml\lab_3\lab3c\lab3c\main.cpp
+	<iostream>
+	"../Serial.h"
+	"../PlatformaVOD.h"
+
+1710254590 source:e:\staruml\lab_3\lab3c\platformavod.cpp
+	"PlatformaVOD.h"
+	"Serial.h"
+	<string>
+	<iostream>
+
+1710253632 e:\staruml\lab_3\lab3c\platformavod.h
+	"Serial.h"
+	<string>
+	<iostream>
+	<vector>
+
+1710253616 e:\staruml\lab_3\lab3c\serial.h
+	<string>
+	<iostream>
+
+1710253510 source:e:\staruml\lab_3\lab3c\serial.cpp
+	"Serial.h"
+	<string>
+	<iostream>
+
+1710680288 source:e:\staruml\lab_3\lab3c\lab3c\main.cpp
+	<iostream>
+	"../Serial.h"
+	"../PlatformaVOD.h"
+
