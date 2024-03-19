@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1710845744 source:e:\staruml\lab_3\lab3b\ksiazka.cpp
+	"Ksiazka.h"
+	<string>
+	<iostream>
+
+1710845752 e:\staruml\lab_3\lab3b\ksiazka.h
+	"Autor.h"
+	<string>
+
+1710845050 e:\staruml\lab_3\lab3b\autor.h
+	<string>
+	<vector>
+
+1710845158 source:e:\staruml\lab_3\lab3b\autor.cpp
+	"Autor.h"
+	"Ksiazka.h"
+	<string>
+	<iostream>
+	<vector>
+
+1710845554 source:e:\staruml\lab_3\lab3b\lab3b\main.cpp
+	<iostream>
+	<string>
+	"../Autor.h"
+	"../Ksiazka.h"
+

@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1710702324 source:e:\staruml\lab_3\lab3a\paczka.cpp
+	"Paczka.h"
+	<iostream>
+	<string>
+
+1710702230 e:\staruml\lab_3\lab3a\paczka.h
+	<iostream>
+	<string>
+
+1710702504 source:e:\staruml\lab_3\lab3a\kurier.cpp
+	"Kurier.h"
+	<iostream>
+	<string>
+
+1710702568 e:\staruml\lab_3\lab3a\kurier.h
+	<iostream>
+	<string>
+	"./Paczka.h"
+
+1710702604 source:e:\staruml\lab_3\lab3a\lab3a\main.cpp
+	<iostream>
+	<string>
+	"../Kurier.h"
+	"../Paczka.h"
+
