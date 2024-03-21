@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1711038260 source:e:\staruml\lab_4\lab4b\lab4b\main.cpp
+	<iostream>
+	<string>
+	"../Bank.h"
+	"../Oddzial.h"
+
+1711038080 source:e:\staruml\lab_4\lab4b\bank.cpp
+	"Bank.h"
+	"Oddzial.h"
+	<iostream>
+	<string>
+
+1711037990 e:\staruml\lab_4\lab4b\bank.h
+	"Oddzial.h"
+	<string>
+
+1711038170 e:\staruml\lab_4\lab4b\oddzial.h
+	<iostream>
+	<string>
+
+1711038344 source:e:\staruml\lab_4\lab4b\oddzial.cpp
+	"Oddzial.h"
+	<iostream>
+	<string>
+

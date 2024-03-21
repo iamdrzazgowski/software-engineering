@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1710856764 source:d:\staruml\lab_4\lab4a\pracownik.cpp
+	"Pracownik.h"
+	<string>
+	<iostream>
+	<vector>
+
+1710856666 d:\staruml\lab_4\lab4a\pracownik.h
+	<string>
+	<iostream>
+	<vector>
+
+1710857588 source:d:\staruml\lab_4\lab4a\lab4a\main.cpp
+	<iostream>
+	"../Firma.h"
+	"../Pracownik.h"
+	<string>
+
+1710856712 d:\staruml\lab_4\lab4a\firma.h
+	"Pracownik.h"
+	<string>
+	<iostream>
+	<vector>
+
+1710857508 source:d:\staruml\lab_4\lab4a\firma.cpp
+	"Firma.h"
+	"Pracownik.h"
+	<string>
+	<iostream>
+	<vector>
+
