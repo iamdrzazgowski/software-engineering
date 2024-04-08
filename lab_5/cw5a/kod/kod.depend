@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1712493380 source:e:\staruml\lab_5\cw5a\pies.cpp
+	"Pies.h"
+	<iostream>
+	<string>
+
+1712493250 e:\staruml\lab_5\cw5a\pies.h
+	"Ssak.h"
+	<iostream>
+	<string>
+
+1712493258 e:\staruml\lab_5\cw5a\ssak.h
+	<iostream>
+	<string>
+
+1712494242 source:e:\staruml\lab_5\cw5a\schronisko.cpp
+	"Schronisko.h"
+	<iostream>
+	<string>
+
+1712493770 e:\staruml\lab_5\cw5a\schronisko.h
+	"Pies.h"
+	<iostream>
+	<string>
+	<vector>
+
+1712493534 source:e:\staruml\lab_5\cw5a\ssak.cpp
+	"Ssak.h"
+	<iostream>
+	<string>
+
+1712590852 source:e:\staruml\lab_5\cw5a\kod\main.cpp
+	<iostream>
+	<string>
+	"../Pies.h"
+	"../Schronisko.h"
+

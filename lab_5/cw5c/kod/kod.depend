@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1712595456 source:e:\staruml\lab_5\cw5c\kod\main.cpp
+	<iostream>
+	<string>
+	"../Dzial.h"
+	"../Firma.h"
+
+1712595006 source:e:\staruml\lab_5\cw5c\kierownikdzialu.cpp
+	"kierownikDzialu.h"
+	<iostream>
+	<string>
+
+1712594994 e:\staruml\lab_5\cw5c\kierownikdzialu.h
+	<iostream>
+	<string>
+
+1712594716 source:e:\staruml\lab_5\cw5c\firma.cpp
+	"Firma.h"
+	<iostream>
+	<string>
+	<vector>
+
+1712594174 e:\staruml\lab_5\cw5c\firma.h
+	"Dzial.h"
+	<iostream>
+	<string>
+	<vector>
+
+1712595368 e:\staruml\lab_5\cw5c\dzial.h
+	"kierownikDzialu.h"
+	<iostream>
+	<string>
+
+1712595386 source:e:\staruml\lab_5\cw5c\dzial.cpp
+	"kierownikDzialu.h"
+	"Dzial.h"
+	<iostream>
+	<string>
+

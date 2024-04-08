@@ -1,0 +1,1 @@
+W tym zadaniu jako przykład pasujący do relacji przedstawionych w zadaniu wybrałem klasy Firma, Dzial i kierownikDzialu. Firma może agregować różne działy, jeżeli jest to duża placówka, natomiast każdy z działów posiada stanowisko kierownika tego działu. Jeżeli dział zostanie usunięty to tym samym stanowisko kierownika też zostanie usunięte.

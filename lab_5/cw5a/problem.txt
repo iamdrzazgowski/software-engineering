@@ -1,0 +1,2 @@
+Pomiędzy klasami X1, X2 znajduje się relacja agregacji prostej (w klasie X1 może znajdować się 0 lub więcej obiektów), gdzie to klasa X1 agreguje obiekty klasy X2, natomiast pomiędzy klasami X2 i X3 znajduje się relacja dziedziczenia, gdzie to klasa X2 dziedziczy po klasie X3.
+Takim realnym przykładem są klasy Schronisko, Pies oraz Ssak, które wykorzystałem w tym przykładzie.
